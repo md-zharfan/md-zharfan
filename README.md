@@ -6,6 +6,14 @@
 - 📫 How to reach me **mohd.zharfan@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/zharfan-nizam/](https://www.linkedin.com/in/zharfan-nizam/)
+  
+- 📈 What Drives Me
+
+  Curiosity: I'm always on the lookout for innovative solutions to modern problems.
+  
+  Giving Back: Inspired to contribute to society by making fintech accessible to everyone, anytime.
+  
+  Team Spirit: I thrive on collaborating with others to turn ideas into impactful results.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
